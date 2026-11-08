@@ -151,6 +151,14 @@ This framework is meant to be forked. Here's what usually needs to change per or
 
 ---
 
+## Companion Work
+
+**[Dashboard Design Standard](https://github.com/bronsonelliott/dashboard-design-standard)** decides how a dashboard looks and reads: what to show, which chart, layout, color and labels. This framework decides how much quality, ownership and support a dashboard gets.
+
+The two fit together. Tier 0 dashboards must follow standardized templates with documented look-and-feel guidelines, and the design standard is one ready-made set of those guidelines. [Read it online](https://bronsonelliott.github.io/dashboard-design-standard/).
+
+---
+
 ## License
 
 This framework is released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You are free to share and adapt it for any purpose with attribution.
